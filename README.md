@@ -32,3 +32,4 @@ c should equal 2.
 
 You should use the -= operator for each variable.
 
+You should not modify the code above the specified comment.
