@@ -27,3 +27,5 @@ c = c - 1;
 a should equal 5.
 
 b should equal -6.
+
+c should equal 2.
