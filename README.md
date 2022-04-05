@@ -25,3 +25,4 @@ b = b - 15;
 c = c - 1;
 
 a should equal 5.
+b should equal -6.
