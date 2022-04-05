@@ -30,3 +30,4 @@ b should equal -6.
 
 c should equal 2.
 
+You should use the -= operator for each variable.
